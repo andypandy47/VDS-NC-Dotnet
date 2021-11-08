@@ -31,7 +31,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ICAO-Verification\VDS-NC-Dotnet.csproj" />
     <ProjectReference Include="..\VDS-NC-Dotnet\VDS-NC-Dotnet.csproj" />
   </ItemGroup>
 
